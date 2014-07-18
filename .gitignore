@@ -6,11 +6,8 @@
 *.exe
 *.o
 *.so
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> 3603f5d1f28b91a1252c64c7412b898cb31c8234
+
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
@@ -23,21 +20,15 @@
 *.rar
 *.tar
 *.zip
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> 3603f5d1f28b91a1252c64c7412b898cb31c8234
+
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> 3603f5d1f28b91a1252c64c7412b898cb31c8234
+
 # OS generated files #
 ######################
 .DS_Store
@@ -46,9 +37,4 @@
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-<<<<<<< HEAD
 Thumbs.db
-=======
-Thumbs.db
-
->>>>>>> 3603f5d1f28b91a1252c64c7412b898cb31c8234
